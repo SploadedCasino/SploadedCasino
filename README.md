@@ -1,0 +1,1 @@
+HI Im SploadedBoi, I started using Github to make a blackjack game, but then I got bored and decided to make a casino website. It is my current repository, https://github.com/SploadedCasino/SploadedCasino.github.io
